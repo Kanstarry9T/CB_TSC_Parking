@@ -1,0 +1,3 @@
+<additional>
+    <vType id="car" laneChangeModel="LC2013" lcStrategic="100"/>
+</additional>

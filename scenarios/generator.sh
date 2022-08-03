@@ -1,0 +1,1 @@
+python parkingGenerator.py & python tripGenerator.py

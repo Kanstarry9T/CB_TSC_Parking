@@ -1,0 +1,11 @@
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="net.net.xml" />
+        <route-files value="trips.xml" />
+
+    </input>
+   <output>
+
+   </output>
+</configuration>

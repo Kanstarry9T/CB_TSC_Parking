@@ -1,0 +1,1 @@
+python ../randomTrips.py -n single.net.xml -o trips_single.xml -p 0.2 --validate

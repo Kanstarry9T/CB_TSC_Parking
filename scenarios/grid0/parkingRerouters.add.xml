@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<additional>
+	<rerouter id="PA_B1B2" edges="B1B2">
+		<interval begin="0.0" end="3600">
+			<parkingAreaReroute id="PA_B1B2" visible="false"/>
+			<parkingAreaReroute id="PA_N9M9" visible="false"/>
+			<parkingAreaReroute id="PA_H3I3" visible="false"/>
+		</interval>
+	</rerouter>
+	<rerouter id="PA_N9M9" edges="N9M9">
+		<interval begin="0.0" end="3600">
+			<parkingAreaReroute id="PA_B1B2" visible="false"/>
+			<parkingAreaReroute id="PA_N9M9" visible="false"/>
+			<parkingAreaReroute id="PA_H3I3" visible="false"/>
+		</interval>
+	</rerouter>
+	<rerouter id="PA_H3I3" edges="H3I3">
+		<interval begin="0.0" end="3600">
+			<parkingAreaReroute id="PA_B1B2" visible="false"/>
+			<parkingAreaReroute id="PA_N9M9" visible="false"/>
+			<parkingAreaReroute id="PA_H3I3" visible="false"/>
+		</interval>
+	</rerouter>
+</additional>
