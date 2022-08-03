@@ -27,7 +27,7 @@ from src.simproc import SimProc
 
 scenario =  'grid'
 sim_len = 3600
-gui = False
+gui = True
 net_json = 'netdata.json'
 out_folder = 'output/' + scenario + '0'
 netfp = os.path.join(out_folder, net_json)
